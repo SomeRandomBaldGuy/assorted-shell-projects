@@ -1,4 +1,4 @@
-#Assorted Shell Projects
+# Assorted Shell Projects
 
 This repo acts as a catch-all for any of my smaller shell projects. Anything that isn't large enough, or complex enough to warrant a full dedicated repo.
 
