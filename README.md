@@ -1,0 +1,1 @@
+# assorted-shell-projects
